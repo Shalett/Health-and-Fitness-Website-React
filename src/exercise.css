@@ -1,0 +1,16 @@
+.container {
+    overflow: hidden;
+    background-color: #2edc82;
+    padding: 10px 10px;
+    font-variant: small-caps;
+    height: 6px;
+    text-align: center;
+    padding-bottom: 1.5%;
+    font-size: 24px;
+  }
+  
+.content {
+    font-size: 20px;
+
+
+  }
