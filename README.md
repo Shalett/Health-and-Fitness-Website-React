@@ -41,7 +41,4 @@ To customize and extend the Health and Fitness Website, consider the following s
 * Add additional features and functionalities based on your project needs.
 Remember to test your changes thoroughly and ensure that the website continues to function as expected.
 
-Contributing
-Contributions to the Health and Fitness Website are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request.
 
-When contributing, please follow the existing code style, include appropriate tests if applicable, and provide a detailed description of your changes
